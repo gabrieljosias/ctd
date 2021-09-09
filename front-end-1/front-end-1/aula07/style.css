@@ -1,0 +1,33 @@
+
+/* este é um trecho que estiliza vários elementos */
+
+body{
+
+    background-color: lightseagreen;
+}
+
+
+h1 {
+
+color: lightsalmon;
+
+}
+
+.titulo-pincipal, h1, #titulo{
+    color: whitesmoke;
+    font-size: 120px;
+}
+
+#tituloSecundario {
+
+    color: whitesmoke;
+    font-size: 80px;
+}
+
+.card a {
+
+    font-size: 40px;
+    color: black;
+    font-family: Verdana;
+
+}

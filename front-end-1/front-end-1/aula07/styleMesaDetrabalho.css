@@ -1,0 +1,42 @@
+
+/* Grupo 05
+Diego Reis
+Gabriel Josias
+Alan Veloso
+Flavio Henrique Ferreira */
+
+
+
+
+body {
+
+    background-color: wheat;
+    font-family: tahoma;
+}
+
+h1 {
+
+color: #0d1b97;
+font-family: Verdana;
+
+}
+
+.job-title {
+
+    background-color: #1726ad; 
+    color: #898dbe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#high {
+
+    color: #1726ad; 
+}
+
+ul {
+
+    background-color: #333333; 
+    color: #dfd7b9;
+
+
+}
